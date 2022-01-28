@@ -1,4 +1,15 @@
-# proj_bad_numer
-Ludzie filmu i numerologia - Czy Twój los jest przesądzony?
+<sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej brak) pseudonauki jaką jest numerologia.</sup></sub>
+# Ludzie filmu i numerologia - Czy Twój los jest przesądzony?
+
+# Wstęp
+Numerologia to pseudonauka badająca mistyczne lub magiczne właściwości liczb oraz opierająca się na przekonaniu, że numer przyporządkowany danemu obiektowi (data urodzenia, numer domu, samochodu, telefonu, zakodowane pod postacią liczby imię i nazwisko, itp.) ma związek z jego losem. Na podstawie takich zależności według numerologów można przewidywać przyszłość.</br>
+Pitagoras oraz jego szkoła pitagorejska jako jedni z pierwszych zajmowali się numerologią. Byli oni przekonani, że porządek Wszechświata jest oparty na liczbach, regułach matematycznych i geometrycznych. Można zatem przypuszcać, że dla pitagorejczyków numerologia i zależności między liczbami były  utożsamione z bóstwem. Szkoła pitagorejska z kolei wpłynęła na platonizm. Następnie zaś ten nurt mistycznej numerologii wpłynął na powstanie gematrii. Przyjmowana przez pitagorejczyków symbolika liczb z kolei była kontynuowana m.in. w chrześcijańskiej analizie liczby Bestii. Dzięki sięganiu do wiedzy starożytnych kultur, w czasie wczesnego rozwoju nauk numerologia wpłynęła na rozwój matematyki.</br>
+Przedmiotem numerologii są nie tylko liczby, lecz również nazwy własne, które zamienia się na liczby poprzez ponumerowanie liter alfabetu, a następnie ich sumowanie. Przyporządkowanie liczb literom polega na zapisaniu alfabetu w pionowych słupkach (9 liter w słupku). Polskie znaki zawsze znajdują się obok podobnych do nich liter (np. A, Ą). Ten sam wyraz zapisany w różnych językach lub alfabetach może dawać inny magiczny numer. Numerologia posługująca się alfabetem łacińskim ma identyczne wartości liter w każdym kraju i języku na świecie, oczywiście pod warunkiem, że używanym alfabetem jest alfabet łaciński.
+
+Według numerologów nic nie dzieje się przypadkowo ani to, że ktoś urodził się w jakimś kraju, ani, że posiada takie, a nie inne imiona i nazwiska, datę urodzenia itp. Podstawową procedurą numerologii jest sumowanie cyfr danej liczby. W związku z tym można określić tzw. liczbę drogi życia lub tzw. rok osobisty. Według numerologów liczba drogi życia determinuje cechy danej osoby, a także zawiera program, do którego człowiek powinien dążyć. Aby uzyskać te cechy, sumuje się cyfry daty urodzenia, aż do uzyskania jednej cyfry, będącej „liczbą urodzenia” lub liczbą drogi życia danej osoby. Działanie to nazywa się redukcją teozoficzną: np. osoba urodzona 21-08-1979 r.: 2+1 + 8 + 1+9+7+9 = 37 ⇒ 3+7 = 10 ⇒ 1+0 = 1 (taka osoba jest numerologiczną jedynką). Jest to tzw. metoda horyzontalna.
+
+Innym sposobem określenia cech jest sumowanie cyfr przypisanych literom imienia i nazwiska[4]. Niektórzy numerologowie oddzielają imię od nazwiska, albo samogłoski od spółgłosek.
 
 
+# Cel
+Moją podstawowym założeniem w tym badniu było, że numerologia pozwala na przewidywanie przyszłości, a analiza daty urodzenia oraz liczby imienia i nazwiska umożliwiają przewidzenie, czy dana osoba, jedynie na podstawie daty urodzenia oraz imienia i nazwiska, zostanie sławnym aktorem, kompozytorem lub reżyserem. 
