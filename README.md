@@ -12,4 +12,4 @@ Innym sposobem określenia cech jest sumowanie cyfr przypisanych literom imienia
 
 
 # Cel
-Moją podstawowym założeniem w tym badniu było, że numerologia pozwala na przewidywanie przyszłości, a analiza daty urodzenia oraz liczby imienia i nazwiska umożliwiają przewidzenie, czy dana osoba, jedynie na podstawie daty urodzenia oraz imienia i nazwiska, zostanie sławnym aktorem, kompozytorem lub reżyserem. 
+Moją podstawowym założeniem w tym badniu było, że numerologia pozwala na przewidywanie przyszłości, a analiza daty urodzenia oraz liczby imienia i nazwiska umożliwiają przewidzenie, czy dana osoba, jedynie na podstawie daty urodzenia oraz imienia i nazwiska, zostanie sławnym aktorem, kompozytorem lub reżyserem. Przez określenie "sławny" rozumie się osobę związaną z przemysłem filmowym, która znajduje się na liście top 500 najlepszych aktorów/aktorek/kompozytorów/reżyserów z portali [filmweb.pl](https://www.filmweb.pl/) 
