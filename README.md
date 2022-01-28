@@ -12,3 +12,23 @@ Dalsze teorie numerologiczne wiążą się z interpretacją liczbami takimi jak 
 Moim teoretycznym założeniem w tym badaniu było to, że numerologia pozwala na przewidywanie przyszłości, a analiza daty urodzenia oraz liczby imienia i nazwiska umożliwiają przewidzenie, czy dana osoba, jedynie na podstawie daty urodzenia oraz imienia i nazwiska, zostanie np. sławnym aktorem, kompozytorem lub reżyserem. Przez określenie "sławny" rozumie się osobę związaną z przemysłem filmowym, która znajduje się na liście top 500 najlepszych aktorów, aktorek, kompozytorów i reżyserów z portalu [Filmweb.pl](https://www.filmweb.pl/). Analizując liczbę drogi życia i liczbę urodzenia osób z tej listy staram się znaleźć zależność tych obliczonych liczb z wykonywanym zawodem związanym z filmem (o ile taka istnieje). Zawody związane z filmem zostały przeze mnie wybrane z uwagi na zweryfikowaną datę urodzenia oraz to, że dla wielu osób w społeczeństwie zawód aktora, bądź filmowca jest postrzegany jako prestiżowy i kojarzy się z bogactwem, popularnością oraz ogólnym spełnieniem.
 
 # Wyniki badań
+## Wstępna analiza danych
+Pobranie danych z fi;lmebu
+Etap 1 szukanie ludzi filmu
+ Etap 1.5 - zamiana linkow na pelne filmwebowe
+ Etap 2 uzycie linkow i wydobycie danych  
+ Etap 3 teraz mamy wszystko w plikach
+surowa lista po kolei po spacji, ostatnia nadmiarowa spacja jest usuniet
+robimy oddzielne listy dla kazdego aktora oraz daty urodzenia
+Kolejna rzecz dodajemy liste bedaca suma liczby urodzenia
+Kolejna rzecz dodajemy liczbe imienia i nazwiska zamieniajac odpowiednio litere na cyfre:
+trzeba po kazdym elemencie listy i go przeliterować (for w for) i wtedy w zaleznosci od litery (znaki specjalne uwazac) nadac wartosc zgodnie z tabelka
+#Kolejna rzecz znaki zodiaku
+mamy dataframe
+analiza przeprowadzona w jupiterze
+
+
+## Badanie zależności
+
+
+# Wnioski
