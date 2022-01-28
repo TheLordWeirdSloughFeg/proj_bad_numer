@@ -1,4 +1,4 @@
-<sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej brak) pseudonauki jaką jest numerologia.</sup></sub>
+<sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej BRAK) pseudonauki jaką jest numerologia.</sup></sub>
 # Ludzie filmu i numerologia - Czy Twój los jest przesądzony?
 
 # Wstęp
