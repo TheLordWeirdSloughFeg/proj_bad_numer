@@ -13,11 +13,19 @@ Moim teoretycznym założeniem w tym badaniu było to, że numerologia pozwala n
 
 # Wyniki badań
 ## Wstępna analiza danych
-Pobranie danych z fi;lmebu
+I) Pobranie danych z portalu Filmweb
+
 Etap 1 szukanie ludzi filmu
- Etap 1.5 - zamiana linkow na pelne filmwebowe
- Etap 2 uzycie linkow i wydobycie danych  
- Etap 3 teraz mamy wszystko w plikach
+Najpierw pobieram dane z serwisu Filmweb, korzystając z modułu beautifulsoup.
+
+
+
+Etap 1.5 - zamiana linkow na pelne filmwebowe
+
+Etap 2 uzycie linkow i wydobycie danych  
+
+Etap 3 teraz mamy wszystko w plikach
+
 surowa lista po kolei po spacji, ostatnia nadmiarowa spacja jest usuniet
 robimy oddzielne listy dla kazdego aktora oraz daty urodzenia
 Kolejna rzecz dodajemy liste bedaca suma liczby urodzenia
