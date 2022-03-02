@@ -15,25 +15,6 @@ Moim teoretycznym założeniem w tym badaniu było to, że numerologia pozwala n
 ## Wstępna analiza danych
 I) Pobranie danych z portalu Filmweb
 
-Etap 1 szukanie ludzi filmu
-Najpierw pobieram dane z serwisu Filmweb, korzystając z modułu beautifulsoup.
-
-
-
-Etap 1.5 - zamiana linkow na pelne filmwebowe
-
-Etap 2 uzycie linkow i wydobycie danych  
-
-Etap 3 teraz mamy wszystko w plikach
-
-surowa lista po kolei po spacji, ostatnia nadmiarowa spacja jest usuniet
-robimy oddzielne listy dla kazdego aktora oraz daty urodzenia
-Kolejna rzecz dodajemy liste bedaca suma liczby urodzenia
-Kolejna rzecz dodajemy liczbe imienia i nazwiska zamieniajac odpowiednio litere na cyfre:
-trzeba po kazdym elemencie listy i go przeliterować (for w for) i wtedy w zaleznosci od litery (znaki specjalne uwazac) nadac wartosc zgodnie z tabelka
-#Kolejna rzecz znaki zodiaku
-mamy dataframe
-analiza przeprowadzona w jupiterze
 
 
 ## Badanie zależności
