@@ -37,10 +37,11 @@ Pobieram datę urodzenia, następnie obrabiam ją wstępnie. Pobieranie przedsta
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2.JPG" />
 </p>
 Dane zapisuję do pliku txt dla łatwiejszego dostępu. Przykładowo pobrane dane aktorek wyglądają one następująco:
-
+</br>
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2plik.JPG" />
 </p>
+
 Imię i nazwisko jest oddzielone znakiem podkreślenia, a dzień, miesiąc i rok spacją. Kolejnym etapem jest przygotowanie tabelki do analizy.
 ### II) Wstępna obróbka danych
 Usuwam nadmiarową spację między kolejnymi rekordami. W przypadku braku daty urodzenia, domyślnie wstawiane jest 0 do dnia, miesiąca i roku urodzenia.</br>
