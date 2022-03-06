@@ -25,9 +25,11 @@ Wyciągam imię i nazwisko z rankingu 500 najlepiej ocenianych aktorów, aktorek
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_1.JPG" />
 </p>
 Daty urodzenia są na konkretnej stronie osoby. Po wyciągnięciu imienia i nazwiska tworzę link, aby pobrać datę urodzenia.
+
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_1.5.JPG" />
 </p>
+
 <b>Etap 2 – pobranie dat  urodzeń</b></br>
 Pobieram datę urodzenia, następnie obrabiam ją wstępnie. Pobieranie przedstawiam graficznie paskiem stanu.
 
