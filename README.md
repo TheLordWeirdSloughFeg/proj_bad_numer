@@ -85,8 +85,11 @@ Z dotychczasowych danych tworzę ramkę danych do analizy.
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/dict.JPG" />
 </p>
+
 ## Analiza EDA
+
 Analiza została przeprowadzona w Jupiter notebook. </br>
+
 Na początku sprawdzam, czy tabelka została dobrze wczytana.
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/top_10_aktorow.JPG" />
