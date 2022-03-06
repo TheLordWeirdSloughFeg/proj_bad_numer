@@ -18,7 +18,9 @@ Dalsze teorie numerologiczne wiążą się z interpretacją liczbami takimi jak 
 Moim teoretycznym założeniem w tym badaniu było to, że numerologia pozwala na przewidywanie przyszłości, a analiza daty urodzenia oraz liczby imienia i nazwiska umożliwiają przewidzenie, czy dana osoba, jedynie na podstawie daty urodzenia oraz imienia i nazwiska, jest np. sławnym aktorem, kompozytorem lub reżyserem. Przez określenie "sławny" rozumie się osobę związaną z przemysłem filmowym, która znajduje się na liście top 500 najlepszych aktorów, aktorek, kompozytorów i reżyserów z portalu [Filmweb.pl](https://www.filmweb.pl/). Analizując liczbę drogi życia i liczbę urodzenia osób z tej listy staram się znaleźć zależność tych obliczonych liczb z wykonywanym zawodem związanym z filmem (o ile taka istnieje). Zawody związane z filmem zostały przeze mnie wybrane z uwagi na zweryfikowaną datę urodzenia oraz to, że dla wielu osób w społeczeństwie zawód aktora, bądź filmowca jest postrzegany jako prestiżowy i kojarzy się z bogactwem, popularnością oraz ogólnym spełnieniem.
 
 # Wyniki badań
+
 ## Pobranie i wstępna analiza danych
+
 ### I) Pobranie danych z portalu Filmweb
 
 <b>Etap 1 - szukanie ludzi filmu</b></br>
@@ -49,7 +51,9 @@ Dane zapisuję do pliku txt dla łatwiejszego dostępu. Przykładowo pobrane dan
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2plik.JPG" />
 </p>
 Imię i nazwisko jest oddzielone znakiem podkreślenia, a dzień, miesiąc i rok spacją. Kolejnym etapem jest przygotowanie tabelki do analizy.
+
 ### II) Wstępna obróbka danych
+
 Usuwam nadmiarową spację między kolejnymi rekordami. W przypadku braku daty urodzenia, domyślnie wstawiane jest 0 do dnia, miesiąca i roku urodzenia.</br>
 W dacie urodzenia na stronie miesiąc jest w postaci pełnej nazwy (string). Do obliczeń zamieniam kolejno nazwy miesięcy na liczby:
 
@@ -150,6 +154,7 @@ Do danych dodałem kolumnę zawierającą zakodowane profesje:</br>
 Ogółem najczęstszą liczbą urodzenia jest 9, miesiącem urodzenia marzec lub kwiecień, a najpopularniejszym znakiem baran.
 
 Przed analizą zamieniam również znaki zodiaku na dane numeryczne według schematu:</br>
+
 * 0 - brak
 * 1 - baran
 * 2 - byk
@@ -171,7 +176,9 @@ Stosunek liczby urodzenia do imienia i nazwiska w zależności od profesji:
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/l_ur_do_l_im_naz.JPG" />
 </p>
 W przypadku liczbie imienia i nazwiska 33 oraz 22 przeważają aktorzy i aktorki.
+
 ## XGBoost
+
 Dzielę dane na zbiór testowy i treningowy w stosunku 1:3. W kolejnym kroku trenuję model XGBoost:
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/train_XGB.JPG" />
@@ -202,6 +209,7 @@ Wybieram algorytm klasyfikacyjny XGBoost.
 Po zastosowaniu modelu XGBoost jego dokładność wyniosła <b>0,68</b>, co jest przeciętnym wynikiem. Następnie dla porównania zastosowałem jeszcze algorytm k-najbliższych sąsiadów.
 
 ## Algorytm k-najbliższych sąsiadów
+
 Na początku sprawdzam który parametr k jest najbardziej optymalny.
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/knn_fit.JPG" />
@@ -218,4 +226,5 @@ Wybrałem k=16 jako że, przy wyższych współczynnikach k wzrost dokładności
 Wynik modelu k-najbliższych sąsiadów to <b>0,76</b>, biorąc pod uwagę rozkład poszczególnych profesji względem roku urodzenia, prawdopodobnie miało to największy wpływ na wyższy wynik tego modelu.
 
 # Wnioski
+
 Numerologia jako paranauka na pewno w dalszym ciągu będzie służyła do przewidywania przyszłości, jednak w przypadku zawodów związanych z przemysłem filmowym, nie wydaje się zdawać egzaminu. Dokładność algorytmu XGBoost wyniosła <b>0,68</b>, natomiast dokładność algorytmu k-najbliższych sąsiadów wynosi <b>0,76</b>.
