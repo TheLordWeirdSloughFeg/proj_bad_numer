@@ -1,12 +1,10 @@
-<sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej BRAK ) pseudonauki jaką jest numerologia.</sup></sub>
+<sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej <b>BRAK</b>) pseudonauki jaką jest numerologia.</sup></sub>
 # Ludzie filmu i numerologia - Czy Twój los jest przesądzony?
 
 # Wstęp
 Numerologia to pseudonauka badająca mistyczne lub magiczne właściwości liczb oraz opierająca się na przekonaniu, że numer przyporządkowany danemu obiektowi (data urodzenia, numer domu, samochodu, telefonu, zakodowane pod postacią liczby imię i nazwisko, itp.) ma związek z jego losem. Na podstawie takich zależności według numerologów można przewidywać przyszłość.</br>
 Pitagoras oraz jego szkoła pitagorejska jako jedni z pierwszych zajmowali się numerologią. Byli oni przekonani, że porządek Wszechświata jest oparty na liczbach, regułach matematycznych i geometrycznych. Można zatem przypuszczać, że dla pitagorejczyków numerologia i zależności między liczbami były utożsamiane z bóstwem. Szkoła pitagorejska z kolei wpłynęła na platonizm, który zaś wpłynął na powstanie gematrii, która jest podobna do numerologii. W gematrii słowa przekształca się na liczby, zwykle przez przypisanie każdej litery alfabetu hebrajskiego do liczby, następnie w zależności od wyniku przypisywany jest sens słowu. Gematria jest obecnie szeroko praktykowana w judaizmie i stanowi ważne źródło biblijnej interpretacji ([ciekawy przykład na stronie uniwersytetu Yale](https://web.library.yale.edu/cataloging/hebraica/about-gematria#:~:text=Gematria%20is%20a%20Jewish%20form,ten%20from%2020%20to%2090.)). Przyjmowana przez pitagorejczyków symbolika liczb z kolei była kontynuowana m.in. w chrześcijańskiej analizie biblijnej liczby Bestii. W późniejszych wiekach podczas kształtowania się nauki, dzięki sięganiu do wiedzy starożytnych kultur, numerologia wpłynęła także na rozwój matematyki.</br>
-</br>
 Przedmiotem numerologii są nie tylko liczby, lecz również nazwy własne, które są zamieniane na liczby poprzez ponumerowanie liter alfabetu, a następnie ich sumowanie. Przyporządkowanie liczb literom polega na zapisaniu alfabetu w pionowych słupkach (9 liter w słupku). Ten sam wyraz zapisany w różnych językach lub alfabetach może dawać inną sumę. Numerologia posługująca się alfabetem łacińskim ma identyczne wartości liter w każdym kraju i języku na świecie, pod warunkiem, że używanym alfabetem jest alfabet łaciński.</br>
-</br>
 Według numerologów nic nie dzieje się przypadkowo ani to, że ktoś urodził się w jakimś kraju, ani, że posiada takie, a nie inne imiona i nazwiska, datę urodzenia itp. Podstawową procedurą numerologii jest sumowanie cyfr danej liczby. W związku z tym można określić tzw. liczbę drogi życia lub tzw. liczba urodzenia. Według numerologów liczba drogi życia determinuje cechy danej osoby, a także zawiera program, do którego człowiek powinien dążyć. Aby uzyskać te cechy, sumuje się cyfry daty urodzenia, aż do uzyskania jednej cyfry, będącej „liczbą urodzenia” lub liczbą drogi życia danej osoby. Działanie to nazywa się redukcją teozoficzną. Przykładowo osoba urodzona 23-08-1979 r.: 2+3+8+1+9+7+9 = 39 ⇒ 3+9 = 12 ⇒ 1+2 = 3 (taka osoba jest numerologiczną jedynką). Jest to tzw. metoda horyzontalna.</br>
 Dalsze teorie numerologiczne wiążą się z interpretacją liczbami takimi jak liczba drogi życia lub liczba urodzenia. Przykładowo osoba urodzona 23-08-1979 r. jako numerologiczna trójka ma odznaczać się: charyzmą, elokwencją, artystyczną duszą, pozytywnym myśleniem.
 
@@ -25,11 +23,9 @@ Wyciągam imię i nazwisko z rankingu 500 najlepiej ocenianych aktorów, aktorek
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_1.JPG" />
 </p>
 Daty urodzenia są na konkretnej stronie osoby. Po wyciągnięciu imienia i nazwiska tworzę link, aby pobrać datę urodzenia.
-
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_1.5.JPG" />
 </p>
-
 <b>Etap 2 – pobranie dat  urodzeń</b></br>
 Pobieram datę urodzenia, następnie obrabiam ją wstępnie. Pobieranie przedstawiam graficznie paskiem stanu.
 
@@ -46,7 +42,6 @@ Dane zapisuję do pliku txt dla łatwiejszego dostępu. Przykładowo pobrane dan
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2plik.JPG" />
 </p>
-
 Imię i nazwisko jest oddzielone znakiem podkreślenia, a dzień, miesiąc i rok spacją. Kolejnym etapem jest przygotowanie tabelki do analizy.
 ### II) Wstępna obróbka danych
 Usuwam nadmiarową spację między kolejnymi rekordami. W przypadku braku daty urodzenia, domyślnie wstawiane jest 0 do dnia, miesiąca i roku urodzenia.</br>
@@ -64,7 +59,7 @@ Do analizy potrzebuję liczbę urodzenia, znak zodiaku oraz liczbę imienia i na
 
 Kolejnym etapem jest obliczenie liczby imienia i nazwiska. Zamieniam kolejne litery alfabetu na odpowiednią cyfrę według tabelki systemu pitagorejskiego opartej na alfabecie łacińskim:
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/numerologia-alfabet.JPG" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/numerologia-alfabet.jpg" />
 </p>
 W przypadku imion i nazwisk ze znakami innych alfabetów, np. polskiego czy hiszpańskiego przyporządkowuję cyfrę tej literze na której jest oparta, czyli do <i>ą,à,á</i> przyporządkowuję tę samą cyfrę co do litery <i>a</i>, litery <i>ç, ć</i> do cyfry litery <i>c</i> itd. </br>
 Po zamianie postępuję w taki sam sposób jak przy obliczaniu liczby urodzenia, czyli dodaję kolejne cyfry i jeśli wynik nie jest równy 11, 22 lub 33, bądź nie jest cyfrą od 1 do 9, dodaję cyfry z wyniku aż do otrzymania wyniku 11, 22, 33, 1, 2, 3, 4, 5, 6, 7, 8 lub 9.
@@ -74,7 +69,7 @@ Po zamianie postępuję w taki sam sposób jak przy obliczaniu liczby urodzenia,
 <b>c) dodanie znaku zodiaku </b></br>
 Na podstawie analizy miesiąca i dnia urodzenia określam znak zodiaku. Znaki zodiaku zgodnie z są określane według dat z tabelki:
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/znaki_zodiaku.JPG" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/znaki_zodiaku.jpg" />
 </p>
 Przy analizie wykorzystuję sekwencję logiczną:
 <p align="center">
