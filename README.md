@@ -1,6 +1,10 @@
 <sub><sup>Autor zaznacza, że nie wierzy w pseudonaukę oraz teorie dotyczące prekognicji. Stara się jedynie poddać numerologię analizie naukowej, by móc jednoznacznie stwierdzić wiarygodność (lub jej <b>BRAK</b>) pseudonauki jaką jest numerologia.</sup></sub>
 # Ludzie filmu i numerologia - Czy Twój los jest przesądzony?
 
+<p align="center">
+  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/050718_EC_numbers_feat.jpg" />
+</p>
+
 # Wstęp
 Numerologia to pseudonauka badająca mistyczne lub magiczne właściwości liczb oraz opierająca się na przekonaniu, że numer przyporządkowany danemu obiektowi (data urodzenia, numer domu, samochodu, telefonu, zakodowane pod postacią liczby imię i nazwisko, itp.) ma związek z jego losem. Na podstawie takich zależności według numerologów można przewidywać przyszłość.</br>
 Pitagoras oraz jego szkoła pitagorejska jako jedni z pierwszych zajmowali się numerologią. Byli oni przekonani, że porządek Wszechświata jest oparty na liczbach, regułach matematycznych i geometrycznych. Można zatem przypuszczać, że dla pitagorejczyków numerologia i zależności między liczbami były utożsamiane z bóstwem. Szkoła pitagorejska z kolei wpłynęła na platonizm, który zaś wpłynął na powstanie gematrii, która jest podobna do numerologii. W gematrii słowa przekształca się na liczby, zwykle przez przypisanie każdej litery alfabetu hebrajskiego do liczby, następnie w zależności od wyniku przypisywany jest sens słowu. Gematria jest obecnie szeroko praktykowana w judaizmie i stanowi ważne źródło biblijnej interpretacji ([ciekawy przykład na stronie uniwersytetu Yale](https://web.library.yale.edu/cataloging/hebraica/about-gematria#:~:text=Gematria%20is%20a%20Jewish%20form,ten%20from%2020%20to%2090.)). Przyjmowana przez pitagorejczyków symbolika liczb z kolei była kontynuowana m.in. w chrześcijańskiej analizie biblijnej liczby Bestii. W późniejszych wiekach podczas kształtowania się nauki, dzięki sięganiu do wiedzy starożytnych kultur, numerologia wpłynęła także na rozwój matematyki.</br>
