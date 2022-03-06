@@ -37,7 +37,7 @@ Pobieram datę urodzenia, następnie obrabiam ją wstępnie. Pobieranie przedsta
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2.JPG" />
 </p>
 Dane zapisuję do pliku txt dla łatwiejszego dostępu. Przykładowo pobrane dane aktorek wyglądają one następująco:
-</br>
+
 <p align="center">
   <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/etap_2plik.JPG" />
 </p>
