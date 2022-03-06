@@ -114,7 +114,7 @@ Sprawdzam jaki jest rozkład odpowiednich kolumn dla aktorów, aktorek, reżyser
 </div>
 
 <p align="center">
-  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/ aktorki_wykr.JPG" />
+  <img src="https://github.com/TheLordWeirdSloughFeg/proj_bad_numer/blob/main/obrazki/aktorki_wykr.JPG" />
 </p>
 <div align="center">
 <b><h3>Rozkład kolumn dla aktorek</h3></b>
